@@ -1,3 +1,5 @@
+//Elena Voinu
+// Creating the object from the blueprint
 public class Main {
     public static void main(String[] args) {
         // create and object person
