@@ -1,3 +1,5 @@
+// Elena Voinu
+// Object properties and behaviour
 public class Person {
     // instance variables (fields)
     private String firstName;
